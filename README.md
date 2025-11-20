@@ -2,8 +2,8 @@
 # EKS Battery System
 
 A simple, standalone battery removal system for FiveM.  
-Players can remove and reinstall a vehicle�s battery using **ox_target** while the hood is open.  
-If the battery is removed, the vehicle will not start until it�s reinstalled.
+Players can remove and reinstall a vehicle's battery using **ox_target** while the hood is open.  
+If the battery is removed, the vehicle will not start until it's reinstalled.
 
 
 ## Features
