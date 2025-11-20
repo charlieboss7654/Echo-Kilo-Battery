@@ -46,5 +46,5 @@ If the battery is removed, the vehicle will not start until it's reinstalled.
        EKS_Battery/
 
    ## Support
-   For support join the discord below:
+   For support join the discord:
    https://discord.gg/gHvvqqNUGy
